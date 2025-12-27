@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jenna Mastrodonato
 
 <!--
 **jemastro/jemastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-// hi! my name is jenna and i am beginning my journey as a software developer. tomorrow is my first day in the tech elevator bootcamp. i'm excited to learn so much over the next few months! my pronouns are she/her. i am passionate about skateboarding, film photography, music, art, and a peaceful life! thanks for reading :D
+tech elevator graduate.
+film photography enthusiast.
