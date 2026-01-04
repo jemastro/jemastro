@@ -22,6 +22,9 @@ Hello! My name is Jenna and I am an aspiring software developer, passionate abou
 ♡ <b>Vending Machine Application: </b>Console application in Java using best practices of Object-Oriented Programming. Application loaded inventory via CSV file and allowed the user to view inventory, add balance, make purchases, and generate receipts while updating inventory and logging transactions.
 <br>
 
+<h1>🌹 Contact</h1>
+♡ Always open to new connections, collaborations, and networking! Connect on <a href="https://www.linkedin.com/in/jemastro/">LinkedIn</a>, or 
+<a href="mailto:jemastro@outlook.com">send me a message!</a>
 <!--
 **jemastro/jemastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
