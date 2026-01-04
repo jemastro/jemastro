@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-tech elevator graduate.
-film photography enthusiast.
+Tech Elevator graduate.
+Film photography enthusiast.
