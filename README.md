@@ -15,12 +15,19 @@ Hello! My name is Jenna and I am an aspiring software developer, passionate abou
 ♡ <b>Tools:</b> Git & GitHub, IntelliJ, VS Code
 
 <h1>🌻 Projects </h1>
+              <h2>Collaborative</h2>
 ♡ <b> Cuddle Collective:</b> Full-stack application designed to help animal shelters manage pets, volunteers, and adoptions efficiently. The application allows shelter staff, volunteers, and the public to interact with pet and volunteer information in a user-friendly and secure way. 
 <br><br>
 ♡ <b>TeBucks Money transfer application:</b> A CLI client/server application that utilizes an MVC and DAO design to connect to a local server and access a local database. This application was built end to end to view all users on the application, and track the signed-in users transfer history.
 <br><br>
 ♡ <b>Vending Machine Application: </b>Console application in Java using best practices of Object-Oriented Programming. Application loaded inventory via CSV file and allowed the user to view inventory, add balance, make purchases, and generate receipts while updating inventory and logging transactions.
 <br>
+<h2>Solo Projects</h2>
+♡ <b>Pig Latin Translator</b>Work-in-progress application where the users input is translated into Pig Latin.
+<br>
+♡ <b>Tarot Card Reader </b>Work-in-progress application where the user gets a randomly generated tarot card as a reading.
+<br>
+
 
 <h1>🌹 Contact</h1>
 ♡ Always open to new connections, collaborations, and networking! Connect on <a href="https://www.linkedin.com/in/jemastro/">LinkedIn</a>, or 
