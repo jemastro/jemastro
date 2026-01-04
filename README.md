@@ -1,9 +1,9 @@
-## Jenna Mastrodonato
+<h1>Jenna Mastrodonato</h1>
 Hello! My name is Jenna and I am an aspiring software developer, passionate about building meaningful, human-centered digital experiences. 
 
 
-<h1>Skills</h1>
-<p style="color:blue;">
+<h1>🌸 Skills </h1>
+
 ♡ <b>Front end:</b> HTML, CSS, Javascript, React
 <br>
 ♡ <b>Back end:</b> Java, Spring Boot, JDBC, Node.js, REST APIs
@@ -13,7 +13,15 @@ Hello! My name is Jenna and I am an aspiring software developer, passionate abou
 ♡ <b>Testing:</b> JUnit (Unit & Integration Testing)
 <br>
 ♡ <b>Tools:</b> Git & GitHub, IntelliJ, VS Code
-</p>
+
+<h1>🌻 Projects </h1>
+♡ <b> Cuddle Collective:</b> Full-stack application designed to help animal shelters manage pets, volunteers, and adoptions efficiently. The application allows shelter staff, volunteers, and the public to interact with pet and volunteer information in a user-friendly and secure way. 
+<br><br>
+♡ <b>TeBucks Money transfer application:</b> A CLI client/server application that utilizes an MVC and DAO design to connect to a local server and access a local database. This application was built end to end to view all users on the application, and track the signed-in users transfer history.
+<br><br>
+♡ <b>Vending Machine Application: </b>Console application in Java using best practices of Object-Oriented Programming. Application loaded inventory via CSV file and allowed the user to view inventory, add balance, make purchases, and generate receipts while updating inventory and logging transactions.
+<br>
+
 <!--
 **jemastro/jemastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
